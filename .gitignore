@@ -1,0 +1,22 @@
+# -----------------------------
+# Python Virtual Environment
+# -----------------------------
+.venv/
+
+# -----------------------------
+# Python Bytecode Files
+# -----------------------------
+__pycache__/
+*.py[cod]
+
+# -----------------------------
+# Jupyter Notebook Checkpoints
+# -----------------------------
+.ipynb_checkpoints/
+
+
+# -----------------------------
+# VS Code Settings
+# -----------------------------
+.vscode/
+*.code-workspace
